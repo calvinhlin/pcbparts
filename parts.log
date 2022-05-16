@@ -1,0 +1,4 @@
+Circuit: EESchema-LIBRARY Version 2.4
+
+Fatal Error: Unknown subcircuit called in:
+   x +1v0 1 0 0 0 u 50 50 1 1 w n
