@@ -1,6 +1,6 @@
 (footprint "Fair-Rite 9567250802 Core" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 64EFCF30)
+  (tedit 64F0D9D4)
   (attr through_hole)
   (fp_text reference "REF**" (at -3.076 -6.439) (layer "F.SilkS")
     (effects (font (size 1.4 1.4) (thickness 0.15)))
@@ -20,7 +20,7 @@
   (fp_line (start 20 -5) (end 20.002 15) (layer "F.Fab") (width 0.127) (tstamp 4c755b21-9e05-44bc-86d6-558b5a18118d))
   (fp_line (start 20.002 15) (end -8 15) (layer "F.Fab") (width 0.127) (tstamp 5eab6f66-4730-41ad-9913-67c48642d306))
   (fp_line (start -8 15) (end -8 -5) (layer "F.Fab") (width 0.127) (tstamp bc264013-21a2-4217-90b5-03026e072b1b))
-  (model "C:/Users/linca/OneDrive/Desktop/SuPEr Lab/pcbparts/3dparts/9567250802.STEP"
+  (model "C:/Users/linca/Desktop/SuPEr Lab/PCBparts/3dparts/9567250802.STEP"
     (offset (xyz 6 -5 8))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 0))
