@@ -959,9 +959,9 @@
 				)
 			)
 			(pin input line
-				(at -6.35 0 0)
+				(at 1.27 -5.08 90)
 				(length 2.54) hide
-				(name "G"
+				(name "GND"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1620,7 +1620,7 @@
 			)
 		)
 		(property "Footprint" "GateDriver:SON65P200X200X80-7N"
-			(at -1.016 -17.018 0)
+			(at 0.254 -14.732 0)
 			(effects
 				(font
 					(size 1.27 1.27)
