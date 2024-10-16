@@ -67,6 +67,17 @@
 		)
 	)
 	(attr smd)
+	(fp_rect
+		(start 5.969 -4.572)
+		(end 10.033 4.445)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill solid)
+		(layer "B.Mask")
+		(uuid "b23e1d1f-5f32-404b-b334-94ef5ebfc894")
+	)
 	(fp_text user "${REFERENCE}"
 		(at 0 2.5 0)
 		(unlocked yes)
